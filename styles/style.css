@@ -70,16 +70,15 @@ header .container {
     color: #FFFFFF;
 }
 
-.banner-text a {
+.live-link {
     font-weight: 500;
     font-size: 16px;
-    background-color: #E02C6D;
-    display: inline-block;
     text-align: center;
+    display: inline-block;
     width: 168px;
     height: 40px;
     padding-top: 10px;
-    /* padding: 10px 24px; */
+    background-color: #E02C6D;
 }
 
 .banner-text a:hover {
